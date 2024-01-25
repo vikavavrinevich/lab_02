@@ -1,0 +1,21 @@
+ul {
+    width: 400px;
+    background-color: #ef9eaf;
+    font-family: Arial, sans-serif;
+    list-style-type: I;
+    list-style-position: inside;
+    color: white;
+    padding: 20px;
+}
+
+li {
+    background-color: #c66377;
+    margin: 10px;
+    padding: 10px;
+}
+
+li span{
+    background-color: #9f344b;
+    margin: 0;
+    padding: 10px;
+}
